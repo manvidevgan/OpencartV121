@@ -1,0 +1,11 @@
+13:58:16.936 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP Pavilion\Documents\AutomationTesting\SeleniumSDET\OpencartV121\testng.xml"
+13:58:17.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP Pavilion\Documents\AutomationTesting\SeleniumSDET\OpencartV121\testng.xml
+
+13:58:21.219 [main] INFO  testCases.TC001_AccountRegisterationTest - **** Strating TC001_AccountRegisterationTest ****
+13:58:21.481 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAcocont
+13:58:21.894 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register
+13:58:21.896 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+13:58:23.083 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating expected message..
+13:58:25.417 [main] INFO  testCases.TC002_Login_Test - **** Starting TC002_Login_Test ****
+13:58:26.965 [main] INFO  testCases.TC002_Login_Test - **** Finished TC002_Login_Test *****
